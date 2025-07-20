@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMP91000SDX_NOPB
+D Sensor AFE System Analog Output 3.3V/5V 14-Pin WSON EP T/R
+K
+F https://www.arrow.com/en/products/lmp91000sdxnopb/texas-instruments
+$ENDCMP
+#
+#End Doc Library

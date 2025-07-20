@@ -1,0 +1,16 @@
+.PS1-CO-1000 :1 ;Air Quality Sensors PS1 Series Solid Polymer Gas Sensor Carbon Monoxide 1000ppm
+PS1CO1000
+*STM U
+*NGS
+*PLB 1="C" 2="S" 3="R"
+*MXP 3
+*DFN PS1-CO-1000
+~!Mouser Part Number (523-PS1-CO-1000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Amphenol-SGX-Sensortech/PS1-CO-1000?qs=vvQtp7zwQdOpteLmAHIDrw%3D%3D)
+~!Manufacturer_Name (Amphenol)
+~!Manufacturer_Part_Number (PS1-CO-1000)
+~!Link Datasheet (https://sgx.cdistore.com/datasheets/sgx/ds-0368-ps1ps4-co-1000.pdf)
+~!Height (5.6mm)
+~!3D_Model (PS1-CO-1000)
+PS1-CO-1000
+1.1!U 2.1!U 3.1!U 

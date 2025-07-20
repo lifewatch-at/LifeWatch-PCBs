@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PS1_CO_1000'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "PS1-CO-1000" (!) = "", "PS1CO1000", "Other", "523-PS1-CO-1000", "https://www.mouser.co.uk/ProductDetail/Amphenol-SGX-Sensortech/PS1-CO-1000?qs=vvQtp7zwQdOpteLmAHIDrw%3D%3D", "Air Quality Sensors PS1 Series Solid Polymer Gas Sensor Carbon Monoxide 1000ppm", "https://sgx.cdistore.com/datasheets/sgx/ds-0368-ps1ps4-co-1000.pdf", "5.6 mm"
+END_PART
+
+END.

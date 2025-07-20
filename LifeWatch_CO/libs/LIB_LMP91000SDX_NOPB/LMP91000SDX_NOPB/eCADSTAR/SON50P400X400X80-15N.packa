@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LMP91000SDX_NOPB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "SON50P400X400X80-15N")
+        (spec "System")
+    )
+)

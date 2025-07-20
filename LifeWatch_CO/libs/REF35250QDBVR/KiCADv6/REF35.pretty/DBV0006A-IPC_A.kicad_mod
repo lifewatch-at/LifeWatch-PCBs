@@ -1,0 +1,198 @@
+(footprint "DBV0006A-IPC_A"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "REF35250QDBVR ")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8df9d352-f2a6-4dfc-bda9-ebaebbcda400")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "DBV0006A-IPC_A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "dcdd30d5-83da-4c41-8aa1-1ddabffbaf24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0fd54b84-4a23-497f-b5c3-6c5ae4f92cf3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15ef4089-9387-4841-bc55-c0ae49390081")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d58cb83-fd4b-4151-9fe6-364c200c246f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.4 -1.699999)
+		(end 1.4 -1.699999)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8abe33a6-7de6-4750-bef5-3a24bb6622ee")
+	)
+	(fp_line
+		(start -1.4 1.699999)
+		(end 1.4 1.699999)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c82fed8e-3c88-4e27-8581-9b403f191ad5")
+	)
+	(fp_circle
+		(center -2.603101 -0.950001)
+		(end -2.4781 -0.950001)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f11cec73-7dec-4b10-b4a4-69985fcb9d62")
+	)
+	(fp_line
+		(start -0.800001 -1.45)
+		(end 0.800001 -1.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4abefbfa-bb0c-4f8b-a24b-5703b8408313")
+	)
+	(fp_line
+		(start -0.800001 1.45)
+		(end -0.800001 -1.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eec594b7-17c3-47af-978a-6c5853a288be")
+	)
+	(fp_line
+		(start -0.800001 1.45)
+		(end 0.800001 1.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "60425fea-559c-4076-b139-5adda2fc0538")
+	)
+	(fp_line
+		(start 0.800001 1.45)
+		(end 0.800001 -1.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "01ff812d-551d-419d-9d61-b6217289d3d4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c5ac4ca5-57b9-4ae8-97fc-f5e1205084a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.150483 -0.950001)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9b0baaad-b8d2-47e4-9744-d6b7a8260cf1")
+	)
+	(pad "2" smd rect
+		(at -1.150483 0)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fb150929-e4d5-4ea9-b5b5-5ed93792a803")
+	)
+	(pad "3" smd rect
+		(at -1.150483 0.950001)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ae6c7fd1-2dc7-4350-b694-e5951b64fd2e")
+	)
+	(pad "4" smd rect
+		(at 1.150483 0.950001)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f72caee9-ee89-4752-be64-b0610e0846e1")
+	)
+	(pad "5" smd rect
+		(at 1.150483 0)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ce07c1fa-6b67-4565-8818-496019b4e0cc")
+	)
+	(pad "6" smd rect
+		(at 1.150483 -0.950001)
+		(size 1.805236 0.609806)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ff636b5b-8e9f-42c4-8c09-64b59b28ef1b")
+	)
+	(model "C:/Users/themb/HTL Wien 3 Rennweg/24 25_DA_LifeWatch - General/05_Elektronik und Pneumatik/02_Libs/REF35250QDBVR/DBV0006A.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

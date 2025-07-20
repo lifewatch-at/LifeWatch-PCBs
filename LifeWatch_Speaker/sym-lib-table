@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DFR0299")(type "KiCad")(uri "${KIPRJMOD}/libs/DFR0299/DFR0299.kicad_sym")(options "")(descr ""))
+  (lib (name "PI7C9X760CZDEX")(type "KiCad")(uri "${KIPRJMOD}/libs/PI7C9X760CZDEX/PI7C9X760CZDEX.kicad_sym")(options "")(descr ""))
+)

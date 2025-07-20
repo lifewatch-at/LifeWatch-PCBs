@@ -1,0 +1,16 @@
+.LMP91000SDX_NOPB :1 ;Sensor AFE System Analog Output 3.3V/5V 14-Pin WSON EP T/R
+SON50P400X400X80-15N
+*STM IC
+*NGS
+*PLB 1="DGND" 2="MENB" 3="SCL" 4="SDA" 5="NC" 6="VDD" 7="AGND" 8="VOUT" 9="C2" 10="C1" 11="VREF" 12="WE" 13="RE" 14="CE" 15="EP"
+*MXP 15
+*DFN LMP91000SDX_NOPB
+~!Mouser Part Number (926-LMP91000SDX/NOPB)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMP91000SDX-NOPB?qs=7lkVKPoqpbYmeZ1SbPtg0w%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMP91000SDX/NOPB)
+~!Link Datasheet (https://www.arrow.com/en/products/lmp91000sdxnopb/texas-instruments)
+~!Height (0.8mm)
+~!3D_Model (LMP91000SDX_NOPB)
+LMP91000SDX_NOPB
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

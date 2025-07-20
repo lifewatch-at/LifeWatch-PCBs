@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_19537326"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-24-09:59:41)
+    (utime 2024-04-24-11:34:25)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "PS1-CO-1000")
+)
+
+
+(pinAssign "ECS_19537326"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-24-09:59:41)
+    (utime 2024-04-24-11:34:25)
+    (interface
+        (port "1" (symbPinId 1) (portName "C") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "R") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19537326")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PS1-CO-1000")
+)
+
+
+(part "PS1-CO-1000"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-24-09:59:41)
+    (utime 2024-04-24-11:34:25)
+    (packageRef "PS1-CO-1000")
+    (pinAssignRef "ECS_19537326")
+    (interface
+        (port "1" (symbPinId 1) (portName "C") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "S") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "R") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "U")
+    (property "description" "Air Quality Sensors PS1 Series Solid Polymer Gas Sensor Carbon Monoxide 1000ppm")
+    (property "Mouser_Part_Number" "523-PS1-CO-1000")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Amphenol-SGX-Sensortech/PS1-CO-1000?qs=vvQtp7zwQdOpteLmAHIDrw%3D%3D")
+    (property "Manufacturer_Name" "Amphenol")
+    (property "Manufacturer_Part_Number" "PS1-CO-1000")
+    (property "Datasheet_Link" "https://sgx.cdistore.com/datasheets/sgx/ds-0368-ps1ps4-co-1000.pdf")
+    (property "compAreaTopHeight" 5.6)
+)
+
+

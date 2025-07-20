@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMP91000SDX/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=15
+Version=2.1
+Released=2020-09-18 06:23:46
+Downloaded=2024-08-14 22:49:37
+3D=Y

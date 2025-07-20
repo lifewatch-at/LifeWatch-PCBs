@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMP91000SDX_NOPB'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMP91000SDX/NOPB" (!) = "", "SON50P400X400X80-15N", "Small Outline No-lead", "926-LMP91000SDX/NOPB", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMP91000SDX-NOPB?qs=7lkVKPoqpbYmeZ1SbPtg0w%3D%3D", "Sensor AFE System Analog Output 3.3V/5V 14-Pin WSON EP T/R", "https://www.arrow.com/en/products/lmp91000sdxnopb/texas-instruments", "0.8 mm"
+END_PART
+
+END.

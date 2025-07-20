@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "i2c_decibel")(type "KiCad")(uri "${KIPRJMOD}/libs/i2c_decibel.pretty")(options "")(descr ""))
+)

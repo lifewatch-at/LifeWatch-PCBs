@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PS1-CO-1000
+D Air Quality Sensors PS1 Series Solid Polymer Gas Sensor Carbon Monoxide 1000ppm
+K
+F https://sgx.cdistore.com/datasheets/sgx/ds-0368-ps1ps4-co-1000.pdf
+$ENDCMP
+#
+#End Doc Library
